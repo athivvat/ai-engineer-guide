@@ -5,3 +5,6 @@
 ## Contents
 ### Resources
 * [Resources](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/resources.md)
+
+## Contributing
+See [CONTRIBUTING.](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/CONTRIBUTING.md)
