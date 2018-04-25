@@ -1,6 +1,7 @@
 # Artificial Intelligence Engineer Roadmap
 
 ## Overview
+This is resources for going from software engineer/non-software engineer to profressional in AI engineer.
 
 ## Contents
 ### Resources
