@@ -3,7 +3,8 @@
 ## Overview
 This is resources for going from software engineer/non-software engineer to profressional in AI engineer.
 
-## Contents
+## Table of Contents
+
 ### Resources
 * [Resources](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/resources.md)
 
