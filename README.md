@@ -23,8 +23,8 @@ I'm a Thai Software Engineer who is really passionate to become entrepreneur, in
         - Vectors
         - Matrices
         - [Tensors](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/mathematics/01_linear-algebra/tensor.md)
-    - Probability and Information Theory
-    - Numerical Computation
+    - 02: Probability and Information Theory
+    - 03: Numerical Computation
 - [Appendix A: Rockstars of the AI Research and AI Engineering World](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/Appendix%20A:%20Rockstars%20of%20the%20AI%20Engineering%20World.md)
 - [Appendix B: Resources](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/Appendix%20B:%20Resources.md)
  
