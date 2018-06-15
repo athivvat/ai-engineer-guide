@@ -6,6 +6,8 @@ This is resources for going from software engineer/non-software engineer to prof
 ## About Me
 I'm a Thai Software Engineer who is really passionate to become entrepreneur, investor, and AI engineer. Was found Humaan.ai to bringing the AI to everyone to do incredible ways.
 
+Connect with me at [Linkedin](https://www.linkedin.com/in/athivvat/)  ·  [Twitter](https://twitter.com/athivvat) · [Facebook](https://www.facebook.com/athivvat) · [GitHub](https://github.com/athivvat)
+
 ## Table of Contents
 - [What Exactly Does an AI Engineer Do](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/01-What%20Exactly%20Does%20an%20AI%20Engineer%20Do.md)
 - Part I: Artificial Intelligence
