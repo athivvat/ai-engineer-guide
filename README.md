@@ -27,6 +27,7 @@ I'm a Thai Software Engineer who is really passionate to become entrepreneur, in
     - 03: Numerical Computation
 - [Appendix A: Rockstars of the AI Research and AI Engineering World](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/Appendix%20A:%20Rockstars%20of%20the%20AI%20Engineering%20World.md)
 - [Appendix B: Resources](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/Appendix%20B:%20Resources.md)
+- [Appendix C: Online Courses](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/Apeendix%20C:%20Online%20Courses.md)
  
 ## Contributing
 See [CONTRIBUTING.](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/CONTRIBUTING.md)
