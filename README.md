@@ -30,6 +30,10 @@ Connect with me at [Linkedin](https://www.linkedin.com/in/athivvat/)  ·  [Twitt
 - [Appendix A: Rockstars of the AI Research and AI Engineering World](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/Appendix%20A:%20Rockstars%20of%20the%20AI%20Engineering%20World.md)
 - [Appendix B: Resources](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/Appendix%20B:%20Resources.md)
 - [Appendix C: Online Courses](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/Apeendix%20C:%20Online%20Courses.md)
+
+## Example Project
+### Computer Vision
+-  [Motion Heatmap Using OpenCV in Python](git@github.com:athivvat/artificial-intelligence-engineer-roadmap.git) : This sample application is useful to see movement patterns over time. For example, it could be used to see the usage of entrances to a factory floor over time, or patterns of shoppers in a store.
  
 ## Contributing
 See [CONTRIBUTING.](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/CONTRIBUTING.md)
