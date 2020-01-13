@@ -24,7 +24,7 @@ Connect with me at [Linkedin](https://www.linkedin.com/in/athivvat/)  ·  [Twitt
 - [Appendix A: Rockstars of the AI Research and AI Engineering World](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/Appendix%20A:%20Rockstars%20of%20the%20AI%20Engineering%20World.md)
 - [Appendix B: Resources](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/Appendix%20B:%20Resources.md)
 - [Appendix C: Online Courses](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/Apeendix%20C:%20Online%20Courses.md)
-- [Gaussian YOLOv3: An Accurate and Fast Object Detector for Autonomous Driving](https://github.com/jwchoi384/Gaussian_YOLOv3) : Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving (ICCV, 2019)
+
 
 # Mathematical
 - Linear Algebra
@@ -51,6 +51,12 @@ Connect with me at [Linkedin](https://www.linkedin.com/in/athivvat/)  ·  [Twitt
 ## Computer Vision
 -  [Motion Heatmap Using OpenCV in Python](https://software.intel.com/en-us/articles/motion-heatmap-using-opencv-in-python) : This sample application is useful to see movement patterns over time. For example, it could be used to see the usage of entrances to a factory floor over time, or patterns of shoppers in a store.
 - [Few-Shot vid2vid by NVIDIA](https://github.com/NVlabs/few-shot-vid2vid) : Pytorch implementation for few-shot photorealistic video-to-video translation. It can be used for generating human motions from poses, synthesizing people talking from edge maps, or turning semantic label maps into photo-realistic videos. The core of video-to-video translation is image-to-image translation. Some of our work in that space can be found in pix2pixHD and SPADE.
+- [Gaussian YOLOv3: An Accurate and Fast Object Detector for Autonomous Driving](https://github.com/jwchoi384/Gaussian_YOLOv3) : Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving (ICCV, 2019)
+- [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) : Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+
+## Natural Language Processing
+- [T5: Text-To-Text Transfer Transformer](https://github.com/google-research/text-to-text-transfer-transformer) : Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
+
 # Contributing
 See [CONTRIBUTING.](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/CONTRIBUTING.md)
 
