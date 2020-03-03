@@ -65,6 +65,9 @@ Connect with me at [Linkedin](https://www.linkedin.com/in/athivvat/)  ·  [Twitt
 - [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Approach-ARTIFICIAL-INTELLIGENCE/dp/B008NYIYZS/ref=sr_1_2?keywords=Modern+AI&qid=1578997004&s=books&sr=1-2)
 - [Deep Learning (Adaptive Computation and Machine Learning series)](https://www.amazon.com/dp/0262035618/ref=rdr_ext_tmb)
 
+# Certifications
+- [Microsoft Certified: Azure AI Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer?wt.mc_id=learningredirect_certs-web-wwl)
+
 # Contributing
 See [CONTRIBUTING.](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/CONTRIBUTING.md)
 
