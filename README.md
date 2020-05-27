@@ -47,6 +47,11 @@ Connect with me at [Linkedin](https://www.linkedin.com/in/athivvat/)  ·  [Twitt
 # Bonus
 ## Exploratiory Data Analysis and Data Visualization
 
+# Online courses
+## Natural Language Processing
+- [Stanford's Natural Language Processing with Deep Learning (CS224n)](https://web.stanford.edu/class/cs224n/) : Natural language processing (NLP) is a crucial part of artificial intelligence (AI), modeling how people share information. In recent years, deep learning approaches have obtained very high performance on many NLP tasks. In this course, students gain a thorough introduction to cutting-edge neural networks for NLP.
+
+
 # Open Source Learning Projects
 ## Computer Vision
 -  [Motion Heatmap Using OpenCV in Python](https://software.intel.com/en-us/articles/motion-heatmap-using-opencv-in-python) : This sample application is useful to see movement patterns over time. For example, it could be used to see the usage of entrances to a factory floor over time, or patterns of shoppers in a store.
