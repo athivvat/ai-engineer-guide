@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/artificial-intelligence-engineer-roadmap",
+  pathPrefix: "/ai-engineer-roadmap",
   siteMetadata: {
     title: `A Roadmap to Becoming an AI Enginee`,
     description: `Artificial Intelligence (AI), a computer science study for developing software or machines that display human intelligence and is growing at a swift pace.`,
