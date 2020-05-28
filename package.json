@@ -1,0 +1,23 @@
+{
+  "name": "ai-engineer-roadmap",
+  "version": "1.0.0",
+  "description": "## Overview This is resources for going from software engineer/non-software engineer to profressional in AI engineer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athivvat/artificial-intelligence-engineer-roadmap.git"
+  },
+  "author": "Athiwat Hirunworawongkun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/athivvat/artificial-intelligence-engineer-roadmap/issues"
+  },
+  "homepage": "https://github.com/athivvat/artificial-intelligence-engineer-roadmap#readme",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
