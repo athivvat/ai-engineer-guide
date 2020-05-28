@@ -1,23 +1,45 @@
 {
   "name": "ai-engineer-roadmap",
   "version": "1.0.0",
-  "description": "## Overview This is resources for going from software engineer/non-software engineer to profressional in AI engineer.",
-  "main": "index.js",
+  "description": "A Roadmap to Becoming an AI Engineer",
+  "author": "Athiwat Hirunworawongkun <athivvat@gmail.com>",
+  "dependencies": {
+    "gatsby": "^2.21.37",
+    "gatsby-image": "^2.4.4",
+    "gatsby-plugin-manifest": "^2.4.5",
+    "gatsby-plugin-offline": "^3.2.3",
+    "gatsby-plugin-react-helmet": "^3.3.1",
+    "gatsby-plugin-sharp": "^2.6.4",
+    "gatsby-source-filesystem": "^2.3.4",
+    "gatsby-transformer-sharp": "^2.5.2",
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-helmet": "^6.0.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0",
+    "prettier": "2.0.5"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/athivvat/artificial-intelligence-engineer-roadmap.git"
+    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
   },
-  "author": "Athiwat Hirunworawongkun",
-  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/athivvat/artificial-intelligence-engineer-roadmap/issues"
-  },
-  "homepage": "https://github.com/athivvat/artificial-intelligence-engineer-roadmap#readme",
-  "devDependencies": {
-    "gh-pages": "^2.2.0"
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
   }
 }

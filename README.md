@@ -1,82 +1,99 @@
-# Artificial Intelligence Engineer Roadmap
+<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+<p align="center">
+  <a href="https://www.gatsbyjs.org">
+    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  Gatsby's default starter
+</h1>
 
-## Overview
-This is resources for going from software engineer/non-software engineer to profressional in AI engineer.
+Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
-## About Me
-I'm a Thai Software Engineer who is really passionate to become entrepreneur, investor, and AI engineer. Was found Humaan.ai to bringing the AI to everyone to do incredible ways. 
+_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
-Currently, I'm studying for a master's degree in Business Analytics and Data Sciences, where majoring in Artificial Intelligence and Machine Learning  at [National Institute of Development Administration (NIDA)](http://www.nida.ac.th/en/), Thailand. 
+## 🚀 Quick start
 
-Connect with me at [Linkedin](https://www.linkedin.com/in/athivvat/)  ·  [Twitter](https://twitter.com/athivvat) · [Facebook](https://www.facebook.com/athivvat) · [GitHub](https://github.com/athivvat)
+1.  **Create a Gatsby site.**
 
-## Table of Contents
-- [What Exactly Does an AI Engineer Do](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/01-What%20Exactly%20Does%20an%20AI%20Engineer%20Do.md)
-- Part I: Artificial Intelligence
-    - Chapter 1: Intro to Artificial Intelligence
-        - What is Artificial Intelligence?
-        - The History of Artificial Intelligence
-- Part II: Problem-solving
-- Part III: Knowledge, reasoning, and planning 
-- Part IV: Uncertain knowledge and reasoning
-- Part V: Learning
-- Part VI: Communicating, perceiving, and acting
-- [Appendix A: Rockstars of the AI Research and AI Engineering World](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/Appendix%20A:%20Rockstars%20of%20the%20AI%20Engineering%20World.md)
-- [Appendix B: Resources](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/Appendix%20B:%20Resources.md)
-- [Appendix C: Online Courses](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/Apeendix%20C:%20Online%20Courses.md)
+    Use the Gatsby CLI to create a new site, specifying the default starter.
 
+    ```shell
+    # create a new Gatsby site using the default starter
+    gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
+    ```
 
-# Mathematical
-- Linear Algebra
-    - Scalars
-    - Vectors
-    - Matrices
-    - [Tensors](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/mathematics/01_linear-algebra/tensor.md)
-- Probability and Information Theory
-- Numerical Computation
-# Programming Fundamentals
-## Python Fundamentals
-- Python Basics
-- Flow Control
-- Data Structures
-- Functions
-- Files and the Operating System
+1.  **Start developing.**
 
-## Python for Data Analysis (Pandas, NumPy)
+    Navigate into your new site’s directory and start it up.
 
-# Bonus
-## Exploratiory Data Analysis and Data Visualization
+    ```shell
+    cd my-default-starter/
+    gatsby develop
+    ```
 
-# Online courses
-## Natural Language Processing
-- [Stanford's Natural Language Processing with Deep Learning (CS224n)](https://web.stanford.edu/class/cs224n/) : Natural language processing (NLP) is a crucial part of artificial intelligence (AI), modeling how people share information. In recent years, deep learning approaches have obtained very high performance on many NLP tasks. In this course, students gain a thorough introduction to cutting-edge neural networks for NLP.
+1.  **Open the source code and start editing!**
 
+    Your site is now running at `http://localhost:8000`!
 
-# Open Source Learning Projects
-## Computer Vision
--  [Motion Heatmap Using OpenCV in Python](https://software.intel.com/en-us/articles/motion-heatmap-using-opencv-in-python) : This sample application is useful to see movement patterns over time. For example, it could be used to see the usage of entrances to a factory floor over time, or patterns of shoppers in a store.
-- [Few-Shot vid2vid by NVIDIA](https://github.com/NVlabs/few-shot-vid2vid) : Pytorch implementation for few-shot photorealistic video-to-video translation. It can be used for generating human motions from poses, synthesizing people talking from edge maps, or turning semantic label maps into photo-realistic videos. The core of video-to-video translation is image-to-image translation. Some of our work in that space can be found in pix2pixHD and SPADE.
-- [Gaussian YOLOv3: An Accurate and Fast Object Detector for Autonomous Driving](https://github.com/jwchoi384/Gaussian_YOLOv3) : Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving (ICCV, 2019)
-- [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) : Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
-## Natural Language Processing
-- [T5: Text-To-Text Transfer Transformer](https://github.com/google-research/text-to-text-transfer-transformer) : Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
+    Open the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
-# Books
-## Mathematics
-- [Mathematics for Computer Science (eBook)](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf?fbclid=IwAR1joXEYZ5hqSHn1lgyjs-KJGFDWrukRmaI7lsweRHxN2jUd54rjQwTr-lg) 
+## 🧐 What's inside?
 
-## Artificial Intelligence
-- [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Approach-ARTIFICIAL-INTELLIGENCE/dp/B008NYIYZS/ref=sr_1_2?keywords=Modern+AI&qid=1578997004&s=books&sr=1-2)
-- [Deep Learning (Adaptive Computation and Machine Learning series)](https://www.amazon.com/dp/0262035618/ref=rdr_ext_tmb)
+A quick look at the top-level files and directories you'll see in a Gatsby project.
 
-# Certifications
-- [Microsoft Certified: Azure AI Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer?wt.mc_id=learningredirect_certs-web-wwl)
+    .
+    ├── node_modules
+    ├── src
+    ├── .gitignore
+    ├── .prettierrc
+    ├── gatsby-browser.js
+    ├── gatsby-config.js
+    ├── gatsby-node.js
+    ├── gatsby-ssr.js
+    ├── LICENSE
+    ├── package-lock.json
+    ├── package.json
+    └── README.md
 
-# Contributing
-See [CONTRIBUTING.](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/CONTRIBUTING.md)
+1.  **`/node_modules`**: This directory contains all of the modules of code that your project depends on (npm packages) are automatically installed.
 
-# Working at Humaan.ai
-Our mission is to "solve intelligence" and enable AI technologies to unleash everyone capabilites and to address humanity's grand challenges.
+2.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser) such as your site header or a page template. `src` is a convention for “source code”.
 
-[[Jobs at Humaan.ai]](https://humaan.ai/jobs)
+3.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
+
+4.  **`.prettierrc`**: This is a configuration file for [Prettier](https://prettier.io/). Prettier is a tool to help keep the formatting of your code consistent.
+
+5.  **`gatsby-browser.js`**: This file is where Gatsby expects to find any usage of the [Gatsby browser APIs](https://www.gatsbyjs.org/docs/browser-apis/) (if any). These allow customization/extension of default Gatsby settings affecting the browser.
+
+6.  **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://www.gatsbyjs.org/docs/gatsby-config/) for more detail).
+
+7.  **`gatsby-node.js`**: This file is where Gatsby expects to find any usage of the [Gatsby Node APIs](https://www.gatsbyjs.org/docs/node-apis/) (if any). These allow customization/extension of default Gatsby settings affecting pieces of the site build process.
+
+8.  **`gatsby-ssr.js`**: This file is where Gatsby expects to find any usage of the [Gatsby server-side rendering APIs](https://www.gatsbyjs.org/docs/ssr-apis/) (if any). These allow customization of default Gatsby settings affecting server-side rendering.
+
+9.  **`LICENSE`**: Gatsby is licensed under the MIT license.
+
+10. **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. **(You won’t change this file directly).**
+
+11. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
+
+12. **`README.md`**: A text file containing useful reference information about your project.
+
+## 🎓 Learning Gatsby
+
+Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.org/). Here are some places to start:
+
+- **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
+
+- **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
+
+## 💫 Deploy
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
+
+<!-- AUTO-GENERATED-CONTENT:END -->
