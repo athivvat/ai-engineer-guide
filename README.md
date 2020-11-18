@@ -26,7 +26,7 @@ Connect with me at [Linkedin](https://www.linkedin.com/in/athivvat/)  ·  [Twitt
 - [Appendix C: Online Courses](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/Apeendix%20C:%20Online%20Courses.md)
 
 
-# Mathematical
+# 1. Mathematics
 - Linear Algebra
     - Scalars
     - Vectors
@@ -34,7 +34,10 @@ Connect with me at [Linkedin](https://www.linkedin.com/in/athivvat/)  ·  [Twitt
     - [Tensors](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/mathematics/01_linear-algebra/tensor.md)
 - Probability and Information Theory
 - Numerical Computation
-# Programming Fundamentals
+
+# 2. Statistics
+
+# 3. Computer Science
 ## Python Fundamentals
 - Python Basics
 - Flow Control
