@@ -75,11 +75,12 @@ Connect with me at [Linkedin](https://www.linkedin.com/in/athivvat/)  ·  [Twitt
 # Books
 ## Mathematics
 - [Mathematics for Computer Science (eBook)](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf?fbclid=IwAR1joXEYZ5hqSHn1lgyjs-KJGFDWrukRmaI7lsweRHxN2jUd54rjQwTr-lg) 
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
 
 ## Artificial Intelligence
 - [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Approach-ARTIFICIAL-INTELLIGENCE/dp/B008NYIYZS/ref=sr_1_2?keywords=Modern+AI&qid=1578997004&s=books&sr=1-2)
 - [Deep Learning (Adaptive Computation and Machine Learning series)](https://www.amazon.com/dp/0262035618/ref=rdr_ext_tmb)
-
+- [Deep Learning Illustrated](https://www.deeplearningillustrated.com/)
 # Certifications
 - [Microsoft Certified: Azure AI Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer?wt.mc_id=learningredirect_certs-web-wwl)
 
