@@ -51,6 +51,9 @@ Connect with me at [Linkedin](https://www.linkedin.com/in/athivvat/)  ·  [Twitt
 ## Exploratiory Data Analysis and Data Visualization
 
 # Online courses
+## Aritificial Intelligence
+- [Intro to AI](http://ai.berkeley.edu/home.html) : Lecture and course materials for UC Berkeley CS188 Intro to AI
+
 ## Natural Language Processing
 - [Stanford's Natural Language Processing with Deep Learning (CS224n)](https://web.stanford.edu/class/cs224n/) : Natural language processing (NLP) is a crucial part of artificial intelligence (AI), modeling how people share information. In recent years, deep learning approaches have obtained very high performance on many NLP tasks. In this course, students gain a thorough introduction to cutting-edge neural networks for NLP.
 
