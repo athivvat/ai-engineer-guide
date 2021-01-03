@@ -83,7 +83,7 @@ Connect with me at [Linkedin](https://www.linkedin.com/in/athivvat/)  ·  [Twitt
 - [Deep Learning Illustrated](https://www.deeplearningillustrated.com/)
 # Certifications
 - [Microsoft Certified: Azure AI Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer?wt.mc_id=learningredirect_certs-web-wwl)
-
+- [TensorFlow Developer Certificate](https://www.tensorflow.org/certificate)
 # Contributing
 See [CONTRIBUTING.](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/CONTRIBUTING.md)
 
