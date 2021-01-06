@@ -12,19 +12,18 @@ Connect with me at [Linkedin](https://www.linkedin.com/in/athivvat/)  ·  [Twitt
 
 ## Table of Contents
 - [What Exactly Does an AI Engineer Do](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/01-What%20Exactly%20Does%20an%20AI%20Engineer%20Do.md)
-- Part I: Artificial Intelligence
+- **Part I: Artificial Intelligence**
     - Chapter 1: Intro to Artificial Intelligence
         - What is Artificial Intelligence?
         - The History of Artificial Intelligence
-- Part II: Problem-solving
-- Part III: Knowledge, reasoning, and planning 
-- Part IV: Uncertain knowledge and reasoning
-- Part V: Learning
-- Part VI: Communicating, perceiving, and acting
+- **Part II: Problem-solving**
+- **Part III: Knowledge, reasoning, and planning**
+- **Part IV: Uncertain knowledge and reasoning**
+- **Part V: Learning**
+- **Part VI: Communicating, perceiving, and acting**
 - [Appendix A: Rockstars of the AI Research and AI Engineering World](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/Appendix%20A:%20Rockstars%20of%20the%20AI%20Engineering%20World.md)
 - [Appendix B: Resources](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/Appendix%20B:%20Resources.md)
 - [Appendix C: Online Courses](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/Apeendix%20C:%20Online%20Courses.md)
-
 
 # 1. Mathematics
 - Linear Algebra

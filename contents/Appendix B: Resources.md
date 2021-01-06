@@ -10,6 +10,7 @@
 5. [Deep Learning for Self-Driving Cars (MIT)](http://selfdrivingcars.mit.edu/): This course has been making a splash online since going live, an MIT course on self-driving cars led by Lex Fridman.
 
 ## Machine Learning
+- [Machine Learning Notation by Shan-Hung Wu](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/resources/machine-learning-notation.pdf)
 ### Mathematics
 Calculus
 * Calculus by Gilbert Strang [PDF](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)
