@@ -54,6 +54,9 @@ Connect with me at [Linkedin](https://www.linkedin.com/in/athivvat/)  ·  [Twitt
 - [Intro to AI](http://ai.berkeley.edu/home.html) : Lecture and course materials for UC Berkeley CS188 Intro to AI
 
 ## Natural Language Processing
+- [Natural Language Processing — Stanford University by Dan Jurafsky](https://www.youtube.com/playlist?app=desktop&list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv)
+- [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) : Break into the NLP space. Master cutting-edge NLP techniques through four hands-on courses!
+
 - [Stanford's Natural Language Processing with Deep Learning (CS224n)](https://web.stanford.edu/class/cs224n/) : Natural language processing (NLP) is a crucial part of artificial intelligence (AI), modeling how people share information. In recent years, deep learning approaches have obtained very high performance on many NLP tasks. In this course, students gain a thorough introduction to cutting-edge neural networks for NLP.
 
 ## Machine Learning
