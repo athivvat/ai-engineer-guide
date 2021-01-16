@@ -80,7 +80,7 @@ Connect with me at [Linkedin](https://www.linkedin.com/in/athivvat/)  ·  [Twitt
 - [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning) : Become a Deep Learning experts. Master Deep Learning and Break into AI
 - [Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc) : Lectures for UC Berkeley CS 285: Deep Reinforcement Learning.
 - [Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) : Lecture for Michigan University EECS 498-007/598-005 Deep Learning for Computer Vision
-
+- [Introduction to Deep Learning-Spring 2021, Carnegie Mellon University](https://deeplearning.cs.cmu.edu/S21/index.html) : This course we will learn about the basics of deep neural networks, and their applications to various AI tasks.
 
 # Open Source Learning Projects
 ## Computer Vision
