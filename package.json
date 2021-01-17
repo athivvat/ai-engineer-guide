@@ -19,9 +19,12 @@
   },
   "homepage": "https://github.com/athivvat/ai-engineer-roadmap#readme",
   "dependencies": {
+    "autoprefixer": "^10.2.1",
     "next": "^10.0.4",
+    "postcss": "^8.2.4",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "tailwindcss": "^2.0.2"
   },
   "devDependencies": {
     "@types/node": "^14.14.19",
