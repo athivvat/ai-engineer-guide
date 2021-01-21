@@ -81,6 +81,7 @@ Connect with me at [Linkedin](https://www.linkedin.com/in/athivvat/)  ·  [Twitt
 - [Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc) : Lectures for UC Berkeley CS 285: Deep Reinforcement Learning.
 - [Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) : Lecture for Michigan University EECS 498-007/598-005 Deep Learning for Computer Vision
 - [Introduction to Deep Learning-Spring 2021, Carnegie Mellon University](https://deeplearning.cs.cmu.edu/S21/index.html) : This course we will learn about the basics of deep neural networks, and their applications to various AI tasks.
+- [Full Stack Deep Learning-Spring 2021, UC Berkeley](https://docs.google.com/document/d/e/2PACX-1vSSSHcahlrJRvVq4qRKDX2jYLjhgpbWZjqmDcWZ7w3FWItZrlSKw6GY7rcSj5ZkJr6M0DaR8QbKCd8S/pub?fbclid=IwAR1fIB7YsZHn7zdA9tdmpmBEXqB-isp3PLbIC0sgQDTkrc3RkoOzHetxeHk) : This course cover the principles and main building blocks of building models. Then zoom out to cover the “full stack” of going from a promising experiment to a shipped product: project structure, useful tooling, data management, best practices for deployment, social responsibility, and finding a job or starting a venture.
 
 # Open Source Learning Projects
 ## Computer Vision
