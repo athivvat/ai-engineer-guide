@@ -33,6 +33,7 @@ Connect with me at [Linkedin](https://www.linkedin.com/in/athivvat/)  ·  [Twitt
     - [Tensors](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/mathematics/01_linear-algebra/tensor.md)
 - Probability and Information Theory
 - Numerical Computation
+- [Hidden Markov Models](https://www.youtube.com/playlist?list=PLix7MmR3doRo3NGNzrq48FItR3TDyuLCo)
 
 # 2. Statistics
 
