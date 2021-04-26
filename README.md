@@ -118,6 +118,9 @@ Topics include Limits, Derivatives, Implicit differentiation, Finding extrema, M
 
 - [NYU’s Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/): This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, embedding methods, metric learning, convolutional and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition.
 
+##  Software Engineering & Data Engineering
+- [CS839 Modern Data Management and Machine Learning Systems](https://thodrek.github.io/cs839_sp20/) Modern Data Analytics and Machine learning (ML) are enjoying rapidly increasing adoption. However, designing and implementing the systems that support modern data analytics and machine learning in real-world deployments presents a significant challenge, in large part due to the radically different development and deployment profile of modern data analysis methods, and the range of practical concerns that come with broader adoption.
+
 # Open Source Learning Projects
 
 ## Computer Vision
