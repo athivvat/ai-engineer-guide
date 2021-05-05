@@ -160,6 +160,9 @@ Topics include Limits, Derivatives, Implicit differentiation, Finding extrema, M
 - [Microsoft Certified: Azure AI Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer?wt.mc_id=learningredirect_certs-web-wwl)
 - [TensorFlow Developer Certificate](https://www.tensorflow.org/certificate)
 
+# Other Resources
+- [AI Expert Roadmap](https://i.am.ai/roadmap/): Roadmap to becoming an Artificial Intelligence Expert in 2021
+
 # Contributing
 
 See [CONTRIBUTING.](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/CONTRIBUTING.md)
