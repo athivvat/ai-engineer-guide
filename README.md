@@ -156,6 +156,9 @@ Topics include Limits, Derivatives, Implicit differentiation, Finding extrema, M
 
 - [Speech and Language Processing by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
 
+## Deep Learning
+- [Deep Learning for Coders with Fastai and PyTorch](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
+
 # Certifications
 
 - [Microsoft Certified: Azure AI Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer?wt.mc_id=learningredirect_certs-web-wwl)
