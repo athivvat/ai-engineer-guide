@@ -108,6 +108,7 @@ Topics include Limits, Derivatives, Implicit differentiation, Finding extrema, M
 - [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/index.html): This course aims to provide an iterative framework for designing real-world machine learning systems. The goal of this framework is to build a system that is deployable, reliable, and scalable.
 
 ## Deep Learning
+- [Practical Deep Learning for Coders](https://course.fast.ai/): Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD - the book and the course
 
 - [Introduction to Deep Learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s191-introduction-to-deep-learning-january-iap-2020): This is MIT's introductory course on deep learning methods with applications to computer vision, natural language processing, biology, and more! Students will gain foundational knowledge of deep learning algorithms and get practical experience in building neural networks in TensorFlow.
 - [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning): Become a Deep Learning experts. Master Deep Learning and Break into AI
