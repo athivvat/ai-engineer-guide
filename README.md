@@ -158,6 +158,7 @@ Topics include Limits, Derivatives, Implicit differentiation, Finding extrema, M
 
 ## Deep Learning
 - [Deep Learning for Coders with Fastai and PyTorch](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
+- [Dive into Deep Learning [PDF][Free]](https://d2l.ai/d2l-en.pdf)
 
 # Certifications
 
