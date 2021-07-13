@@ -221,6 +221,17 @@ The courses below are required and/or recommended for completing the [Artificial
 - [CS330: Deep Multi-task and Meta Learning](https://online.stanford.edu/courses/cs330-deep-multi-task-and-meta-learning)
 - [STATS214: Machine Learning Theory](https://online.stanford.edu/courses/stats214-machine-learning-theory)
 
+# Artificial Intelligence Research Labs
+- [Alan Turing institute](https://www.turing.ac.uk/)
+- [J.P. Morgan A.I. research lab](https://www.jpmorgan.com/technology/artificial-intelligence)
+- [Oxford Machine Learning research Group](https://www.robots.ox.ac.uk/~parg/)
+- [LIVIA(Laboratory of Imaging, Vision and Artificial Intelligence)](https://en.etsmtl.ca/unites-de-recherche/livia/accueil?lang=en-CA)
+- [Microsoft research lab-AI](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/)
+- [Berkeley AI Research Lab](https://bair.berkeley.edu/)
+- [MIT computer science and artificial intelligence laboratory](https://www.csail.mit.edu/)
+- [Stanford AI Lab](https://ai.stanford.edu/)
+- [Stanford HAL](https://hai.stanford.edu/)
+
 # Contributing
 
 See [CONTRIBUTING.](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/CONTRIBUTING.md)
