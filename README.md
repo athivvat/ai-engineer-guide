@@ -111,7 +111,6 @@ Topics include Limits, Derivatives, Implicit differentiation, Finding extrema, M
 
 ## Deep Learning
 - [Practical Deep Learning for Coders](https://course.fast.ai/): Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD - the book and the course
-
 - [Introduction to Deep Learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s191-introduction-to-deep-learning-january-iap-2020): This is MIT's introductory course on deep learning methods with applications to computer vision, natural language processing, biology, and more! Students will gain foundational knowledge of deep learning algorithms and get practical experience in building neural networks in TensorFlow.
 - [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning): Become a Deep Learning experts. Master Deep Learning and Break into AI
 - [Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc): Lectures for UC Berkeley CS 285: Deep Reinforcement Learning.
@@ -120,6 +119,8 @@ Topics include Limits, Derivatives, Implicit differentiation, Finding extrema, M
 - [Full Stack Deep Learning-Spring 2021, UC Berkeley](https://fall2019.fullstackdeeplearning.com/): Full Stack Deep Learning helps you bridge the gap from training machine learning models to deploying AI systems in the real world.
 - [NYU’s Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/): This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, embedding methods, metric learning, convolutional and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition.
 - [The Deep Learning Lecture Series 2020 (DeepMind x UCL)](https://deepmind.com/learning-resources/deep-learning-lecture-series-2020): In this series, DeepMind Research Scientists and Research Engineers deliver 12 lectures on a range of topics in Deep Learning.
+- [Deep Learning in the Life Sciences-Spring 2021, MIT](https://www.youtube.com/playlist?list=PLUgbVHjDhargXdgtc1ZcJb2lz20msuBfS): This courses introduces foundations and state-of-the-art machine learning challenges in genomics and the life sciences more broadly
+
 
 ## Computer Vision
 - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks): In the fourth course of the Deep Learning Specialization, you will understand how computer vision has evolved and become familiar with its exciting applications such as autonomous driving, face recognition, reading radiology images, and more.
