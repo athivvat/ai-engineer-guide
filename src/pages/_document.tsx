@@ -36,9 +36,19 @@ class MyDocument extends Document {
             href="/favicons/favicon-16x16.png"
           />
           <link rel="manifest" href="/favicons/site.webmanifest" />
-          <link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#000000" />
+          <link
+            rel="mask-icon"
+            href="/favicons/safari-pinned-tab.svg"
+            color="#000000"
+          />
           <meta name="msapplication-TileColor" content="#000000" />
           <meta name="theme-color" content="#000000" />
+          <link rel="preconnect" href="https://fonts.googleapis.com" />
+          <link rel="preconnect" href="https://fonts.gstatic.com" />
+          <link
+            href="https://fonts.googleapis.com/css2?family=Inter:wght@100;300;500&display=swap"
+            rel="stylesheet"
+          />
         </Head>
         <body>
           <Main />
