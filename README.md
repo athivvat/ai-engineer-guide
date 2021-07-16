@@ -120,6 +120,7 @@ Topics include Limits, Derivatives, Implicit differentiation, Finding extrema, M
 - [NYU’s Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/): This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, embedding methods, metric learning, convolutional and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition.
 - [The Deep Learning Lecture Series 2020 (DeepMind x UCL)](https://deepmind.com/learning-resources/deep-learning-lecture-series-2020): In this series, DeepMind Research Scientists and Research Engineers deliver 12 lectures on a range of topics in Deep Learning.
 - [Deep Learning in the Life Sciences-Spring 2021, MIT](https://www.youtube.com/playlist?list=PLUgbVHjDhargXdgtc1ZcJb2lz20msuBfS): This courses introduces foundations and state-of-the-art machine learning challenges in genomics and the life sciences more broadly
+- [NYU Deep Learning Spring 2021 (NYU-DLSP21), NYU Center For Data Science](https://atcold.github.io/NYU-DLSP21/): This course includes history, backpropagation, and gradient descent, parameter sharing: recurrent and convolutional networks, latent variable (LV) energy based models (EBMs)
 
 
 ## Computer Vision
