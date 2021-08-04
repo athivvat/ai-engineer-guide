@@ -196,6 +196,12 @@ The courses below are required and/or recommended for completing the [Artificial
 - [Mathematics of Machine Learning [MIT OpenCourseWare]](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/)
 - [The Matrix calculus for Deep Learning [PDF]](https://arxiv.org/pdf/1802.01528.pdf)
 
+**Optimization**
+- [Machine Learning Refined: Foundations, Algorithms, and Applications (Book)](https://www.amazon.com/Machine-Learning-Refined-Foundations-Applications-ebook/dp/B08576B3WL)
+- [Linear Algebra and Optimization for Machine Learning: A Textbook (Book)](https://www.amazon.com/Linear-Algebra-Optimization-Machine-Learning-ebook/dp/B088KDTG21)
+- [Convex Optimization (Book)](https://www.amazon.com/Convex-Optimization-Stephen-Boyd-ebook/dp/B00E3UR2KE)
+- [Numerical Optimization (Book)](https://www.amazon.com/Numerical-Optimization-Operations-Financial-Engineering-ebook/dp/B014P9ICXI)
+
 **Statistics and Probability**
 - [Stanford CS229 Review of Probability Theory [PDF]](http://cs229.stanford.edu/notes2020fall/notes2020fall/cs229-prob.pdf)
 - [Stanford CS229 Statistics and Probability Refresher](https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistics)
