@@ -1,6 +1,6 @@
 import { useState } from "react";
-import { Header } from "../components/header";
-import { Sidebar } from "../components/sidebar";
+import { Header } from "../header";
+import { Sidebar } from "../sidebar";
 
 const Layout = ({ children }) => {
   const [show, setShow] = useState(false);
