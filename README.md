@@ -241,6 +241,10 @@ The courses below are required and/or recommended for completing the [Artificial
 - [Stanford AI Lab](https://ai.stanford.edu/)
 - [Stanford HAL](https://hai.stanford.edu/)
 
+# Researchers
+**Computer Vision**
+- [Sanja Fidler](https://www.cs.toronto.edu/~fidler/): Associate Professor at University of Toronto, and a Director of AI at NVIDIA, leading a research lab in Toronto.
+
 # Contributing
 
 See [CONTRIBUTING.](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/CONTRIBUTING.md)
