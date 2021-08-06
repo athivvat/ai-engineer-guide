@@ -240,6 +240,7 @@ The courses below are required and/or recommended for completing the [Artificial
 - [MIT computer science and artificial intelligence laboratory](https://www.csail.mit.edu/)
 - [Stanford AI Lab](https://ai.stanford.edu/)
 - [Stanford HAL](https://hai.stanford.edu/)
+- [MIT HAN Lab](https://hanlab.mit.edu/)
 
 # Researchers
 **Computer Vision**
