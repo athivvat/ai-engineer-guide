@@ -160,17 +160,24 @@ Topics include Limits, Derivatives, Implicit differentiation, Finding extrema, M
 - [Mathematics for Computer Science (eBook)](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf?fbclid=IwAR1joXEYZ5hqSHn1lgyjs-KJGFDWrukRmaI7lsweRHxN2jUd54rjQwTr-lg)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 
+## Machine Learning
+
+- [Machine Learning Refined: Foundations, Algorithms, and Applications](https://www.amazon.com/Machine-Learning-Refined-Foundations-Applications-dp-1108480721/dp/1108480721)
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
+
 ## Artificial Intelligence
 
 - [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Approach-ARTIFICIAL-INTELLIGENCE/dp/B008NYIYZS/ref=sr_1_2?keywords=Modern+AI&qid=1578997004&s=books&sr=1-2)
-- [Deep Learning (Adaptive Computation and Machine Learning series)](https://www.amazon.com/dp/0262035618/ref=rdr_ext_tmb)
-- [Deep Learning Illustrated](https://www.deeplearningillustrated.com/)
+
 
 ## Natural Language Processing
 
 - [Speech and Language Processing by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
 
 ## Deep Learning
+
+- [Deep Learning (Adaptive Computation and Machine Learning series)](https://www.amazon.com/dp/0262035618/ref=rdr_ext_tmb)
+- [Deep Learning Illustrated](https://www.deeplearningillustrated.com/)
 - [Deep Learning for Coders with Fastai and PyTorch](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
 - [Dive into Deep Learning [PDF][Free]](https://d2l.ai/d2l-en.pdf)
 
