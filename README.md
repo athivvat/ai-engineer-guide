@@ -172,6 +172,7 @@ Topics include Limits, Derivatives, Implicit differentiation, Finding extrema, M
 ## Artificial Intelligence
 
 - [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Approach-ARTIFICIAL-INTELLIGENCE/dp/B008NYIYZS/ref=sr_1_2?keywords=Modern+AI&qid=1578997004&s=books&sr=1-2)
+- [Artificial Intelligence: A Textbook by Charu C. Aggarwal](https://www.amazon.com/gp/product/B099PG94QM/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i2)
 
 
 ## Natural Language Processing
