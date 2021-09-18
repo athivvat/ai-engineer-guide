@@ -67,26 +67,29 @@ Connect with me at [Linkedin](https://www.linkedin.com/in/athivvat/) · [Twitter
 
 ## Mathematics
 
-- [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014): This course provides an elementary introduction to probability and statistics with applications. Topics include: basic combinatorics, random variables, probability distributions, Bayesian inference, hypothesis testing, confidence intervals, and linear regression.
-- [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010): This is a basic subject on matrix theory and linear algebra. Emphasis is given to topics that will be useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, similarity, and positive definite matrices.
-- [Mathematics of Machine Learning](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/) : Broadly speaking, Machine Learning refers to the automated identification of patterns in data. As such it has been a fertile ground for new statistical and algorithmic developments. The purpose of this course is to provide a mathematically rigorous introduction to these developments with emphasis on methods and their analysis.
-- [Matrix Algebra for Engineers](https://www.coursera.org/learn/matrix-algebra-engineers): This course is all about matrices, and concisely covers the linear algebra that an engineer should know.
-
-## Math for Machine Learning
 ### Linear Algebra
 Topics include Vector spaces, Matrix vector operations, Rank of a matrix, Norms, Eigenvectors and values and a bit of Matrix calculus too.
 - [Linear algebra explained in four pages (PDF)](http://souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
 - [Linear Algebra Review and Reference (PDF)](http://cs229.stanford.edu/section/cs229-linalg.pdf)
+- [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010): This is a basic subject on matrix theory and linear algebra. Emphasis is given to topics that will be useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, similarity, and positive definite matrices.
+- [Matrix Algebra for Engineers](https://www.coursera.org/learn/matrix-algebra-engineers): This course is all about matrices, and concisely covers the linear algebra that an engineer should know.
 
 ### Probability & Statistics
 Topics include Random variables, expectation, Probability distributions and so on.
 - [CME 106 - Introduction to Probability and Statistics for Engineers](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-probability)
 - [Review of Probability Theory (PDF)](http://cs229.stanford.edu/section/cs229-prob.pdf)
+- [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014): This course provides an elementary introduction to probability and statistics with applications. Topics include: basic combinatorics, random variables, probability distributions, Bayesian inference, hypothesis testing, confidence intervals, and linear regression.
 
 ### Calculus
 Topics include Limits, Derivatives, Implicit differentiation, Finding extrema, MVT, Newton's method and Integral calc stuff. The advanced materials are about Matrix calculus - Gradients, Directional derivatives etc.
 - [Calculus Cheat Sheet (PDF)](https://math.colorado.edu/math2300/resources/calc1/lamar/Calculus_Cheat_Sheet_All.pdf)
 - [Matrix Calculus (PDF)](https://ccrma.stanford.edu/~dattorro/matrixcalc.pdf)
+
+### Optimization
+- [Convex Optimization](https://www.edx.org/course/convex-optimization)
+
+### Mathematics for Machine Learning
+- [Mathematics of Machine Learning](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/) : Broadly speaking, Machine Learning refers to the automated identification of patterns in data. As such it has been a fertile ground for new statistical and algorithmic developments. The purpose of this course is to provide a mathematically rigorous introduction to these developments with emphasis on methods and their analysis.
 
 ## Aritificial Intelligence
 
