@@ -86,7 +86,7 @@ Topics include Limits, Derivatives, Implicit differentiation, Finding extrema, M
 - [Matrix Calculus (PDF)](https://ccrma.stanford.edu/~dattorro/matrixcalc.pdf)
 
 ### Optimization
-- [Convex Optimization](https://www.edx.org/course/convex-optimization)
+- [Convex Optimization](https://www.edx.org/course/convex-optimization): his course concentrates on recognizing and solving convex optimization problems that arise in applications. The syllabus includes: convex sets, functions, and optimization problems; basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory, theorems of alternative, and applications; interior-point methods; applications to signal processing, statistics and machine learning, control and mechanical engineering, digital and analog circuit design, and finance.
 
 ### Mathematics for Machine Learning
 - [Mathematics of Machine Learning](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/) : Broadly speaking, Machine Learning refers to the automated identification of patterns in data. As such it has been a fertile ground for new statistical and algorithmic developments. The purpose of this course is to provide a mathematically rigorous introduction to these developments with emphasis on methods and their analysis.
