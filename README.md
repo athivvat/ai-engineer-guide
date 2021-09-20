@@ -164,7 +164,8 @@ Topics include Limits, Derivatives, Implicit differentiation, Finding extrema, M
 # Books
 
 ## Mathematics
-
+- [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares by Stephen Boyd and Lieven Vandenberghe](https://web.stanford.edu/~boyd/vmls/)
+- [Convex Optimization by Boyd and Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/)
 - [Mathematics for Computer Science (eBook)](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf?fbclid=IwAR1joXEYZ5hqSHn1lgyjs-KJGFDWrukRmaI7lsweRHxN2jUd54rjQwTr-lg)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 
