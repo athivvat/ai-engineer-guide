@@ -191,6 +191,13 @@ Topics include Limits, Derivatives, Implicit differentiation, Finding extrema, M
 - [Deep Learning for Coders with Fastai and PyTorch](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
 - [Dive into Deep Learning [PDF][Free]](https://d2l.ai/d2l-en.pdf)
 
+
+# AI & Machine Learning Cheat Sheet
+
+- [Machine Learning Algorithms Python and R Codes Cheatsheet by Analytics Vidhya](https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/)
+- [The mostly complete chart of Neural Networks, explained](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
+
+
 # Certifications
 
 - [Microsoft Certified: Azure AI Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer?wt.mc_id=learningredirect_certs-web-wwl)
