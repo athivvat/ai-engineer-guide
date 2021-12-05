@@ -270,6 +270,11 @@ The courses below are required and/or recommended for completing the [Artificial
 **Computer Vision**
 - [Sanja Fidler](https://www.cs.toronto.edu/~fidler/): Associate Professor at University of Toronto, and a Director of AI at NVIDIA, leading a research lab in Toronto.
 
+
+
+# Machine Learning Toolkit
+- [Machine Learning Toolkit](https://datarevenue.com/machine-learning-software-tools): A curated list of the best machine learning tools - with simple explanations.
+
 # Contributing
 
 See [CONTRIBUTING.](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/CONTRIBUTING.md)
