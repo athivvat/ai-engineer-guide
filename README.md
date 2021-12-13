@@ -266,6 +266,13 @@ The courses below are required and/or recommended for completing the [Artificial
 - [Stanford HAL](https://hai.stanford.edu/)
 - [MIT HAN Lab](https://hanlab.mit.edu/)
 
+# International Conferences in Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Natural Language Processing and Robotics
+- CVPR: IEEE Conference on Computer Vision and Pattern Recognition
+- NeurIPS: Neural Information Processing Systems
+- ICML: International Conference on Machine Learning
+- ICCV: International Conference on Computer Vision
+- AAAI: Association for the Advancement of Artificial Intelligence 
+
 # Researchers
 **Computer Vision**
 - [Sanja Fidler](https://www.cs.toronto.edu/~fidler/): Associate Professor at University of Toronto, and a Director of AI at NVIDIA, leading a research lab in Toronto.
