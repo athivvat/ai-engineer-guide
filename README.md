@@ -168,6 +168,9 @@ Topics include Limits, Derivatives, Implicit differentiation, Finding extrema, M
 - [Convex Optimization by Boyd and Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/)
 - [Mathematics for Computer Science (eBook)](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf?fbclid=IwAR1joXEYZ5hqSHn1lgyjs-KJGFDWrukRmaI7lsweRHxN2jUd54rjQwTr-lg)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
+- [Machine Learning: A Probabilistic Perspective (2012)](https://probml.github.io/pml-book/book0.html)
+- [Probabilistic Machine Learning: An Introduction (2022)](https://probml.github.io/pml-book/book1.html)
+- [Probabilistic Machine Learning: Advanced Topics (2023)](https://probml.github.io/pml-book/book2.html)
 
 ## Machine Learning
 
