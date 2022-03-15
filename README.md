@@ -202,8 +202,8 @@ Topics include Limits, Derivatives, Implicit differentiation, Finding extrema, M
 
 # Software, Framework & Tools for AI research
 - [PyTorch](https://pytorch.org/): An open source machine learning framework that accelerates the path from research prototyping to production deployment.
-- [CARLA: An Open Urban Driving Simulator](https://github.com/carla-simulator/carla): an open-source simulator for autonomous driving research.
-
+- [CARLA: An Open Urban Driving Simulator](https://github.com/carla-simulator/carla): An open-source simulator for autonomous driving research.
+- [Open3D](http://www.open3d.org/): An open-source library that supports rapid development of software that deals with 3D data.
 
 # Certifications
 
