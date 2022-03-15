@@ -200,6 +200,10 @@ Topics include Limits, Derivatives, Implicit differentiation, Finding extrema, M
 - [Machine Learning Algorithms Python and R Codes Cheatsheet by Analytics Vidhya](https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/)
 - [The mostly complete chart of Neural Networks, explained](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
 
+# Software, Framework & Tools for AI research
+- [PyTorch](https://pytorch.org/): An open source machine learning framework that accelerates the path from research prototyping to production deployment.
+- [CARLA: An Open Urban Driving Simulator](https://github.com/carla-simulator/carla): an open-source simulator for autonomous driving research.
+
 
 # Certifications
 
