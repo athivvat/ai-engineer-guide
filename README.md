@@ -171,6 +171,7 @@ Topics include Limits, Derivatives, Implicit differentiation, Finding extrema, M
 - [Machine Learning: A Probabilistic Perspective (2012)](https://probml.github.io/pml-book/book0.html)
 - [Probabilistic Machine Learning: An Introduction (2022)](https://probml.github.io/pml-book/book1.html)
 - [Probabilistic Machine Learning: Advanced Topics (2023)](https://probml.github.io/pml-book/book2.html)
+- [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org/)
 
 ## Machine Learning
 
