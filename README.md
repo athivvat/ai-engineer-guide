@@ -292,6 +292,10 @@ The courses below are required and/or recommended for completing the [Artificial
 # Machine Learning Toolkit
 - [Machine Learning Toolkit](https://datarevenue.com/machine-learning-software-tools): A curated list of the best machine learning tools - with simple explanations.
 
+# Articles to crack an AI Engineer & Job Interviews
+- [Zoox Careers — Dissecting Zoox's 1,426 Self Driving Car Jobs](https://www.thinkautonomous.ai/blog/zoox-careers/)
+- [How Do You Crack an AI Engineer’s Interview at Companies Like Google and Amazon?](https://medium.datadriveninvestor.com/how-do-you-crack-an-ai-engineers-interview-at-companies-like-google-and-amazon-56c6e5d1b513)
+
 # Contributing
 
 See [CONTRIBUTING.](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/CONTRIBUTING.md)
