@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/athivvat/ai-engineer-roadmap#readme",
   "dependencies": {
+    "@markdoc/next.js": "^0.1.6",
     "autoprefixer": "^10.4.5",
     "clsx": "^1.1.1",
     "next": "^12.1.5",
