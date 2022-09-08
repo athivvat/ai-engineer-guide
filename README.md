@@ -8,7 +8,7 @@ This is resources for going from software engineer/non-software engineer to prof
 
 I'm a Thai Software Engineer who is really passionate to become entrepreneur, investor, and AI engineer. Was found Humaan.ai to bringing the AI to everyone to do incredible ways.
 
-Currently, I'm studying for a master's degree in Business Analytics and Data Sciences, where majoring in Artificial Intelligence and Machine Learning at [National Institute of Development Administration (NIDA)](http://www.nida.ac.th/en/), Thailand.
+I graduated with a master's degree in Business Analytics and Data Sciences, where majoring in Artificial Intelligence and Machine Learning at [National Institute of Development Administration (NIDA)](http://www.nida.ac.th/en/), Thailand.
 
 Connect with me at [Linkedin](https://www.linkedin.com/in/athivvat/) · [Twitter](https://twitter.com/athivvat) · [Facebook](https://www.facebook.com/athivvat) · [GitHub](https://github.com/athivvat)
 
