@@ -127,7 +127,7 @@ Topics include Limits, Derivatives, Implicit differentiation, Finding extrema, M
 - [The Deep Learning Lecture Series 2020 (DeepMind x UCL)](https://deepmind.com/learning-resources/deep-learning-lecture-series-2020): In this series, DeepMind Research Scientists and Research Engineers deliver 12 lectures on a range of topics in Deep Learning.
 - [Deep Learning in the Life Sciences-Spring 2021, MIT](https://www.youtube.com/playlist?list=PLUgbVHjDhargXdgtc1ZcJb2lz20msuBfS): This courses introduces foundations and state-of-the-art machine learning challenges in genomics and the life sciences more broadly
 - [NYU Deep Learning Spring 2021 (NYU-DLSP21), NYU Center For Data Science](https://atcold.github.io/NYU-DLSP21/): This course includes history, backpropagation, and gradient descent, parameter sharing: recurrent and convolutional networks, latent variable (LV) energy based models (EBMs)
-
+- [Deep Learning Systems—Algorithms and Implementation ](https://dlsyscourse.org/): An understanding and overview of the “full stack” of deep learning systems, ranging from the high-level modeling design of modern deep learning systems, to the basic implementation of automatic differentiation tools, to the underlying device-level implementation of efficient algorithms.
 
 ## Computer Vision
 - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks): In the fourth course of the Deep Learning Specialization, you will understand how computer vision has evolved and become familiar with its exciting applications such as autonomous driving, face recognition, reading radiology images, and more.
