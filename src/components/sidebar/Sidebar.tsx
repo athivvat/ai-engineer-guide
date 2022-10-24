@@ -30,6 +30,7 @@ const items = [
       { href: "/appendix/online-courses", children: "Appendix A: Online Courses" },
       { href: "/appendix/books", children: "Appendix B: Books" },
       { href: "/appendix/software-and-tools", children: "Appendix C: Software & Tools" },
+      { href: "/appendix/projects", children: "Appendix D:  Learning Projects" },
     ],
   }
 ];
