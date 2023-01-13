@@ -102,8 +102,8 @@ Topics include Limits, Derivatives, Implicit differentiation, Finding extrema, M
 
 - [Natural Language Processing — Stanford University by Dan Jurafsky](https://www.youtube.com/playlist?app=desktop&list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv)
 - [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) : Break into the NLP space. Master cutting-edge NLP techniques through four hands-on courses!
-
 - [Stanford's Natural Language Processing with Deep Learning (CS224n)](https://web.stanford.edu/class/cs224n/) : Natural language processing (NLP) is a crucial part of artificial intelligence (AI), modeling how people share information. In recent years, deep learning approaches have obtained very high performance on many NLP tasks. In this course, students gain a thorough introduction to cutting-edge neural networks for NLP.
+- [CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/) : The fundamentals about the modeling, theory, ethics, and systems aspects of large language models
 
 ## Machine Learning
 
