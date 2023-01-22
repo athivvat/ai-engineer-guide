@@ -105,6 +105,7 @@ Topics include Limits, Derivatives, Implicit differentiation, Finding extrema, M
 - [Stanford's Natural Language Processing with Deep Learning (CS224n)](https://web.stanford.edu/class/cs224n/) : Natural language processing (NLP) is a crucial part of artificial intelligence (AI), modeling how people share information. In recent years, deep learning approaches have obtained very high performance on many NLP tasks. In this course, students gain a thorough introduction to cutting-edge neural networks for NLP.
 - [CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/) : The fundamentals about the modeling, theory, ethics, and systems aspects of large language models
 - [CS25: Transformers United V2](https://web.stanford.edu/class/cs25/index.html) : Learn how transformers work and deepp drive into the different kinds of transformers and how they're applied in deifferent fields.
+- [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) : A course by Andrej Karpathy on building neural networks, from scratch, in code.
 
 ## Machine Learning
 
