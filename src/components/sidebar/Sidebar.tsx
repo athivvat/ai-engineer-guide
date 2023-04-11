@@ -6,23 +6,23 @@ import { Ads } from "../ads";
 const items = [
   {
     title: "Getting Started",
-    links: [{ href: "/introduction", children: "Introdcution" }],
+    links: [{ href: "/introduction", children: "Introduction" }],
   },
   {
     title: "I. Mathematics",
-    links: [{ href: "/mathematics", children: "Introdcution" }],
+    links: [{ href: "/mathematics", children: "Introduction" }],
   },
   {
     title: "II. Computer Science",
-    links: [{ href: "/cs", children: "Introdcution" }],
+    links: [{ href: "/cs", children: "Introduction" }],
   },
   {
     title: "III. Aritificial Intelligence",
-    links: [{ href: "/ai", children: "Introdcution" }],
+    links: [{ href: "/ai", children: "Introduction" }],
   },
   {
     title: "IV. Cracking Interviews",
-    links: [{ href: "/cracking-interviews", children: "Introdcution" }],
+    links: [{ href: "/cracking-interviews", children: "Introduction" }],
   },
   {
     title: "Appendix ",
