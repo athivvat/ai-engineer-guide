@@ -41,6 +41,7 @@ Connect with me at [Linkedin](https://www.linkedin.com/in/athivvat/) · [Twitter
 
 # 2. Statistics
 
+
 # 3. Computer Science
 
 ## Python Fundamentals
@@ -80,6 +81,7 @@ Topics include Random variables, expectation, Probability distributions and so o
 - [CME 106 - Introduction to Probability and Statistics for Engineers](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-probability)
 - [Review of Probability Theory (PDF)](http://cs229.stanford.edu/section/cs229-prob.pdf)
 - [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014): This course provides an elementary introduction to probability and statistics with applications. Topics include: basic combinatorics, random variables, probability distributions, Bayesian inference, hypothesis testing, confidence intervals, and linear regression.
+- [Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo): Statistics 110 (Probability) has been taught at Harvard University by Joe Blitzstein (Professor of the Practice in Statistics, Harvard University) each year since 2006.
 
 ### Calculus
 Topics include Limits, Derivatives, Implicit differentiation, Finding extrema, MVT, Newton's method and Integral calc stuff. The advanced materials are about Matrix calculus - Gradients, Directional derivatives etc.
