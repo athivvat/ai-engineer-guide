@@ -54,4 +54,5 @@ export default {
       />
     </>
   ),
+  docsRepositoryBase: 'https://github.com/athivvat/ai-engineer-guide/tree/main'
 };
