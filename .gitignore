@@ -1,14 +1,27 @@
 # Systems
 .DS_Store
 
-# next.js build output
-.next
-# dotenv environment variables file (build for Zeit Now)
+# Astro build output
+dist/
+.astro/
+
+# Environment variables
 .env
-.env.build
+.env.local
+.env.*.local
+
 # Dependency directories
 node_modules/
+/.pnpm-store
+
 # Logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+pnpm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Vercel
+.vercel

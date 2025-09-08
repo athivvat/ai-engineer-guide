@@ -1,0 +1,75 @@
+---
+import { getCollection } from 'astro:content';
+
+const allDocs = await getCollection('docs');
+
+// Organize docs by directory structure
+const navStructure = {
+  'getting-started': { title: '🎯 Getting Started', items: [] },
+  'foundation-knowledge': { title: '📚 Foundation Knowledge', items: [] },
+  'core-ai-technologies': { title: '🤖 Core AI Technologies', items: [] },
+  'advanced-ai-engineering': { title: '🚀 Advanced AI Engineering (2025)', items: [] },
+  'enterprise-ai-implementation': { title: '🏢 Enterprise AI Implementation', items: [] },
+  'tools-frameworks': { title: '🛠️ Tools & Frameworks', items: [] },
+  'industry-applications': { title: '💼 Industry Applications', items: [] },
+  'learning-resources': { title: '📖 Learning Resources', items: [] },
+  'career-development': { title: '🎯 Career Development', items: [] },
+  'ethics-responsible-ai': { title: '⚖️ Ethics & Responsible AI', items: [] }
+};
+
+// Sort and organize docs
+allDocs.forEach(doc => {
+  const pathParts = doc.slug.split('/');
+  const section = pathParts[0];
+  
+  if (navStructure[section]) {
+    navStructure[section].items.push({
+      title: doc.data.title,
+      slug: doc.slug,
+      order: doc.data.order || 999
+    });
+  }
+});
+
+// Sort items within each section by order
+Object.keys(navStructure).forEach(key => {
+  navStructure[key].items.sort((a, b) => a.order - b.order);
+});
+---
+
+<aside class="w-64 bg-gray-50 dark:bg-gray-800 border-r border-gray-200 dark:border-gray-700 overflow-y-auto">
+  <div class="p-6">
+    <nav class="space-y-6">
+      <div>
+        <a 
+          href="/"
+          class="block text-sm font-medium text-blue-600 hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300 mb-4"
+        >
+          ← Home
+        </a>
+      </div>
+      
+      {Object.entries(navStructure).map(([sectionKey, section]) => (
+        section.items.length > 0 && (
+          <div key={sectionKey}>
+            <h3 class="text-xs font-semibold text-gray-900 dark:text-gray-100 uppercase tracking-wider mb-3">
+              {section.title}
+            </h3>
+            <ul class="space-y-2">
+              {section.items.map((item) => (
+                <li key={item.slug}>
+                  <a
+                    href={`/docs/${item.slug}`}
+                    class="block text-sm text-gray-600 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white transition-colors py-1"
+                  >
+                    {item.title}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )
+      ))}
+    </nav>
+  </div>
+</aside>

@@ -1,0 +1,112 @@
+---
+title: "Problem Solving"
+description: "Systematic approaches to problem-solving in AI, focusing on search algorithms and state space representations"
+order: 2
+---
+
+# Problem Solving
+
+## Overview
+
+This chapter explores systematic approaches to problem-solving in AI, focusing on search algorithms and state space representations.
+
+## Problem-Solving Framework
+
+### Problem Definition
+- **Initial state**: Starting point
+- **Goal state**: Desired outcome
+- **Actions**: Available operations
+- **State space**: All possible states
+- **Path cost**: Cost of solution sequence
+
+### State Space Search
+- Representing problems as graphs
+- Nodes represent states
+- Edges represent actions
+- Solution as path from initial to goal state
+
+## Uninformed Search Strategies
+
+### Breadth-First Search (BFS)
+- Explores all nodes at current depth before going deeper
+- **Advantages**: Optimal for unweighted graphs, complete
+- **Disadvantages**: High memory requirements
+- **Time Complexity**: O(b^d)
+- **Space Complexity**: O(b^d)
+
+### Depth-First Search (DFS)
+- Explores as far as possible along each branch
+- **Advantages**: Lower memory requirements
+- **Disadvantages**: Not optimal, can get stuck in infinite paths
+- **Time Complexity**: O(b^m)
+- **Space Complexity**: O(bm)
+
+### Uniform Cost Search
+- Expands node with lowest path cost
+- Optimal for weighted graphs
+- Similar to Dijkstra's algorithm
+
+### Iterative Deepening Search
+- Combines benefits of BFS and DFS
+- Gradually increases depth limit
+- Optimal and memory-efficient
+
+## Informed Search Strategies
+
+### Heuristic Functions
+- Admissible heuristics (never overestimate)
+- Consistent heuristics (monotonic)
+- Designing effective heuristics
+
+### A* Search
+- Uses f(n) = g(n) + h(n)
+- g(n): actual cost from start
+- h(n): heuristic estimate to goal
+- Optimal with admissible heuristics
+
+### Greedy Best-First Search
+- Uses only heuristic function
+- Fast but not optimal
+- Can get trapped in local optima
+
+### Hill Climbing
+- Local search algorithm
+- Moves to neighboring state with best value
+- Variants: steepest ascent, first-choice, random restart
+
+## Advanced Search Techniques
+
+### Simulated Annealing
+- Probabilistic algorithm
+- Allows worse moves to escape local optima
+- Temperature parameter controls exploration
+
+### Genetic Algorithms
+- Population-based search
+- Evolution through selection, crossover, mutation
+- Good for optimization problems
+
+### Constraint Satisfaction Problems (CSP)
+- Variables with domains and constraints
+- Backtracking search with inference
+- Arc consistency and forward checking
+
+## Applications
+
+- **Route planning and navigation**
+- **Game playing (chess, Go)**
+- **Puzzle solving (8-puzzle, Sudoku)**
+- **Scheduling and resource allocation**
+- **Circuit design and optimization**
+
+## Key Concepts to Master
+
+- Search tree vs. state space
+- Optimality, completeness, time/space complexity
+- Heuristic design and admissibility
+- Local vs. global search strategies
+- Constraint propagation techniques
+
+## Practice Problems
+
+*This section will include coding exercises and problem sets to reinforce the concepts covered in this chapter.*
