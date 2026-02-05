@@ -97,6 +97,7 @@ This Edition 2 reflects the latest trends in AI engineering for 2025, including 
 ### 📖 [Learning Resources](#learning-resources)
 - [Courses](#courses)
 - [Books](#books)
+- [Website](#website)
 - [Research Papers](#research-papers)
 - [Certifications](#certifications)
 - [Conferences](#conferences)
